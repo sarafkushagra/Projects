@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{           
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+    background: plum;
+
+}
+table,
+th,
+td {
+    width: 1000px;
+    height: 60px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,
+td{
+    text-align: center;
+}
+th{
+    font-size: 40px;
+}
+th,
+td {
+    background: white;
+    color: black;
+}
+.month{
+    font-size: 45px;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+}
+.text{
+    margin-top: 6px;
+    width: 1000px;
+    height: 33px;
+    font-size: 27px;
+}
+.textie{
+    margin-top: 6px;
+    width: 500px;
+    height: 33px;
+    font-size: 27px;
+}
