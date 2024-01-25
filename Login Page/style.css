@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: blueviolet;
+}
+.imp{
+    margin: 20px;
+    padding: 15px;
+    background-color: aliceblue;
+    height: 90vh; 
+    border-radius: 1%;  
+    margin-left: 195px;
+    margin-right: 195px;
+}
+#img{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border-radius: 5%;
+    height: 300px;
+}
+.left{
+    display: flex;
+    justify-content:left;
+    margin-left: 70px;
+    margin-top: 120px;
+    border: none;
+}
+.hello{
+    margin-left: 150px;
+}
+.head{
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 30px;
+}
+#mail{
+    margin-top: 20px;
+    border-radius:3%;
+    height: 30px;
+    width: 250px;
+    border : none;
+    background: rgb(197, 194, 194);
+    margin-bottom: 5px;
+}
+::placeholder{
+    font-size: 15px;
+}
+#pass{
+    margin-top: 5px;
+    border-radius:3%;
+    height: 30px;
+    width: 250px;
+    border : none;
+    background: rgb(197, 194, 194);
+    margin-bottom: 5px;
+}
+.final{
+    margin-top: 20px;
+    height: 30px;
+    width: 250px;
+    background: green;
+    color: white;
+}
+.forgot{
+   margin-top: 10px;
+}
+.men{
+    margin-top: 170px;
+}
